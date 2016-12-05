@@ -17,3 +17,7 @@ To be eligible for an award, you must attend any TWO of the RevBayes workshops h
 
 Support for these travel awards is provided by funds from NSF grant DEB-1556615 (awarded to T. Heath, D. Ksepka, & R. Meredith) and NSF grant DEB-1355071 (J. Brown & R. Thomson)
 
+## Required Background Material
+
+
+
