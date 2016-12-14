@@ -26,18 +26,22 @@ This workshop covers a very complicated analysis that requires the participants 
 	* Basic Introduction to Rev and MCMC ([tutorial PDF](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Basics_Tutorial.pdf))
 	* Substitution Models for Time-Constrained Trees ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_CTMC_Tutorial.pdf))
 	* Partitioned Data Analysis ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Partition_Tutorial.pdf))
-	* Model Selection using Bayes Factors ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_BayesFactor_Tutorial.pdf))
+	* *Optional*: Model Selection using Bayes Factors ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_BayesFactor_Tutorial.pdf))
 
 
 ## Install RevBayes
 
 This workshop will use RevBayes v1.X. It can be downloaded from [revbayes.com](http://revbayes.github.io/code.html) for Windows 7 or higher or for Mac OSX 10.6 or higher. For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
 
-## Install Accessory Programs
+## Accessory Programs
 
 The RevBayes workshops will also use additional for analysis of output and summarization of the MCMC. Please download and install the following:
 
 * Tracer ([http://tree.bio.ed.ac.uk/software/tracer/](http://tree.bio.ed.ac.uk/software/tracer/))
 * FigTree ([http://tree.bio.ed.ac.uk/software/figtree/](http://tree.bio.ed.ac.uk/software/figtree/))
-
+* IcyTree (a web-based tree viewer; [http://tgvaughan.github.io/icytree/](http://tgvaughan.github.io/icytree))
+* Text editors
+	* Mac OSX: TextWrangler, Sublime Text
+	* Windows: Sublime Text
+	* Linux: Geany, Sublime Text
 
