@@ -41,7 +41,52 @@ The RevBayes workshops will also use additional for analysis of output and summa
 * FigTree ([http://tree.bio.ed.ac.uk/software/figtree/](http://tree.bio.ed.ac.uk/software/figtree/))
 * IcyTree (a web-based tree viewer; [http://tgvaughan.github.io/icytree/](http://tgvaughan.github.io/icytree))
 * Text editors
-	* Mac OSX: TextWrangler, Sublime Text
-	* Windows: Sublime Text
-	* Linux: Geany, Sublime Text
+	* Mac OSX: [TextWrangler](http://www.barebones.com/products/TextWrangler/), [Sublime Text](https://www.sublimetext.com/)
+	* Windows: [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/)
+	* Linux: [Geany](https://www.geany.org/), [Sublime Text](https://www.sublimetext.com/)
 
+## Workshop Outline
+### Background and Theory
+The course will begin with lectures on the models and statistical methods for conducting a total-evidence analysis under the fossilized birth-death model in RevBayes. We will focus on the following models:
+
+* Stochastic branching processes as tree priors, with particular emphasis on the fossilized birth-death model (FBD)
+* Models of lineage-specific substitution rates (or rates of morphological change)
+* Models of discrete morphological character change and accounting for acquisition biases
+
+### Tutorial
+After presenting the theoretical background, we will lead a hands-on tutorial using an empirical dataset. This exercise will demonstrate:
+
+* Importing multiple data matrices in RevBayes
+* Creating clade constraints
+* Specification of the FBD model
+* Sampling fossil occurrence dates from known age ranges
+* Setting up the uncorrelated lognormal model for relaxing the molecular clock
+* Defining the parameters of the GTR+G model of sequence evolution
+* Applying a strict clock to the rates of morphological evolution
+* Defining the parameters of the Mk model of discrete morphological character evolution while accounting for sampling only variable characters
+* Executing an MCMC sampler in RevBayes
+* Summarizing and evaluating the marginal posterior samples of various model parameters
+* Summarizing a fossilized birth-death tree with sampled ancestors
+
+The next section provides specific details for locating the tutorial exercise and associated files.
+
+## Exercise: Total Evidence Analysis under the FBD Model in RevBayes
+
+This tutorial is maintained on the RevBayes tutorial repository ([https://github.com/revbayes/revbayes_tutorial](https://github.com/revbayes/revbayes_tutorial)). On this site you can find a wide range of tutorials for different RevBayes analyses. 
+
+### Download the Files
+
+For this workshop, it is recommended that you create a working directory on your computer. You can call this `RB_TotalEvidence_FBD_Tutorial`.
+
+In `RB_TotalEvidence_FBD_Tutorial` download the tutorial files and uncompress the zipped archives:
+
+* [`data.zip`](link to zip)
+* [`scripts.zip`](link to zip)
+
+Also download the detailed tutorial document:
+
+* [`RB_TotalEvidenceDating_FBD_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf)
+
+### Getting Started
+
+Now that you have all the files and installed the software, execute RevBayes and follow the tutorial exercise. If you have any trouble, please ask for help. 
