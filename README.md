@@ -85,7 +85,7 @@ In `RB_TotalEvidence_FBD_Tutorial` download the data files and uncompress the zi
 
 Also download the detailed tutorial document:
 
-* [`RB_TotalEvidenceDating_FBD_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf)
+* [`RB_TotalEvidenceDating_FBD_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf-brokenlink)
 
 ### Getting Started
 
