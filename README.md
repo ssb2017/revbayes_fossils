@@ -38,7 +38,7 @@ This workshop covers a very complicated analysis that requires the participants 
 
 ## Install RevBayes
 
-This workshop will use RevBayes v1.X. It can be downloaded from [the latest release](https://github.com/revbayes/revbayes/releases/tag/v1.0.3-release) for Windows 7 or higher or for Mac OSX 10.6 or higher. For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
+This workshop will use RevBayes v1.0.3. It can be downloaded from [the latest release](https://github.com/revbayes/revbayes/releases/tag/v1.0.3-release) for Windows 7 or higher or for Mac OSX 10.6 or higher. For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
 
 ## Accessory Programs
 
