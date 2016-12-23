@@ -24,8 +24,9 @@ This workshop covers a very complicated analysis that requires the participants 
 1. Attend the Introduction to RevBayes Workshop on Jan. 7 ([https://github.com/ssb2017/revbayes_intro](https://github.com/ssb2017/revbayes_intro))
 2. Complete the introductory tutorials that are offered for the [introductory workshop](https://github.com/ssb2017/revbayes_intro):
 	* Basic Introduction to Rev and MCMC ([tutorial PDF](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Basics_Tutorial.pdf))
+	* Introduction to MCMC Simulation ([tutorial PDF](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf))
 	* Substitution Models for Time-Constrained Trees ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_CTMC_Tutorial.pdf))
-	* Partitioned Data Analysis ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Partition_Tutorial.pdf))
+	* *Optional*: Partitioned Data Analysis ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Partition_Tutorial.pdf))
 	* *Optional*: Model Selection using Bayes Factors ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_BayesFactor_Tutorial.pdf))
 
 
@@ -70,7 +71,7 @@ After presenting the theoretical background, we will lead a hands-on tutorial us
 
 The next section provides specific details for locating the tutorial exercise and associated files.
 
-## Exercise: Total Evidence Analysis under the FBD Model in RevBayes
+## Exercise: Estimating the Phylogeny and Divergence Times of Fossil and Extant Bears
 
 This tutorial is maintained on the RevBayes tutorial repository ([https://github.com/revbayes/revbayes_tutorial](https://github.com/revbayes/revbayes_tutorial)). On this site you can find a wide range of tutorials for different RevBayes analyses. 
 
@@ -78,10 +79,9 @@ This tutorial is maintained on the RevBayes tutorial repository ([https://github
 
 For this workshop, it is recommended that you create a working directory on your computer. You can call this `RB_TotalEvidence_FBD_Tutorial`.
 
-In `RB_TotalEvidence_FBD_Tutorial` download the tutorial files and uncompress the zipped archives:
+In `RB_TotalEvidence_FBD_Tutorial` download the data files and uncompress the zipped archives:
 
 * [`data.zip`](link to zip)
-* [`scripts.zip`](link to zip)
 
 Also download the detailed tutorial document:
 
