@@ -87,11 +87,11 @@ For this workshop, it is recommended that you create a working directory on your
 
 In `RB_TotalEvidence_FBD_Tutorial` download the data files and uncompress the zipped archives:
 
-* [`data.zip`](link to zip)
+* [`data.zip`](link to zip) (link currently unavailable)
 
 Also download the detailed tutorial document:
 
-* [`RB_TotalEvidenceDating_FBD_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf-brokenlink)
+* [`RB_TotalEvidenceDating_FBD_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf-brokenlink) (link currently unavailable)
 
 ### Getting Started
 
