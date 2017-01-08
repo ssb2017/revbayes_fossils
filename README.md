@@ -54,6 +54,8 @@ The RevBayes workshops will also use additional for analysis of output and summa
 
 ## Workshop Outline
 ### Background and Theory
+([slides PDF](https://github.com/ssb2017/revbayes_fossils/blob/master/SSB_2017_TEFBD_slides.pdf))
+
 The course will begin with lectures on the models and statistical methods for conducting a total-evidence analysis under the fossilized birth-death model in RevBayes. We will focus on the following models:
 
 * Stochastic branching processes as tree priors, with particular emphasis on the fossilized birth-death model (FBD)
@@ -77,8 +79,6 @@ After presenting the theoretical background, we will lead a hands-on tutorial us
 
 The next section provides specific details for locating the tutorial exercise and associated files.
 
-## Introduction and Background
-The slides for the lecture on the methods and background are available in this repository ([slides PDF](https://github.com/ssb2017/revbayes_fossils/blob/master/SSB_2017_TEFBD_slides.pdf)).
 
 ## Exercise: Estimating the Phylogeny and Divergence Times of Fossil and Extant Bears
 
