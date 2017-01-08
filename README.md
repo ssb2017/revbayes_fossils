@@ -77,6 +77,9 @@ After presenting the theoretical background, we will lead a hands-on tutorial us
 
 The next section provides specific details for locating the tutorial exercise and associated files.
 
+## Introduction and Background
+The slides for the lecture on the methods and background are available in this repository ([slides PDF](https://github.com/ssb2017/revbayes_fossils/blob/master/SSB_2017_TEFBD_slides.pdf)).
+
 ## Exercise: Estimating the Phylogeny and Divergence Times of Fossil and Extant Bears
 
 This tutorial is maintained on the RevBayes tutorial repository ([https://github.com/revbayes/revbayes_tutorial](https://github.com/revbayes/revbayes_tutorial)). On this site you can find a wide range of tutorials for different RevBayes analyses. 
